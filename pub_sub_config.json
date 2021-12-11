@@ -1,0 +1,5 @@
+{
+  "connector_class_module": "image_classification.client.connectors.pub_sub_connector",
+  "connector_class": "PubSubConnector",
+  "project_id": "image_classification_project"
+}

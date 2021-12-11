@@ -1,0 +1,5 @@
+{
+  "connector_class_module": "image_classification.client.connectors.kafka_connector",
+  "connector_class": "KafkaConnector",
+  "bootstrap_brokers": "localhost:9092"
+}
